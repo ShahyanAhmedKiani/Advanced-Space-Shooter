@@ -42,5 +42,6 @@ Install dependencies:
 pip install pygame numpy
 ```
 # Play Without Setup Python
-- Download the Space_Shoter.exe 
-- Double click on it,and start playing instantly! 🎉 
+- ## 🔽 Download EXE
+[![Download](https://img.shields.io/badge/Download-Game%20EXE-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/uc?export=download&id=1RYHzUx19em4XBAUwR74D3i5Tsfa02rR_)
+
