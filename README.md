@@ -1,8 +1,8 @@
-# 🚀 Advanced Space Shooter
+![Image](https://github.com/user-attachments/assets/379808b1-71ac-457b-9a0f-05b37cba7f48)
 
 An **arcade-style space shooter game** built in **Python (Pygame)** featuring multiple enemy types, power-ups, particle effects, background music, and smooth gameplay.  
 
-![Game Preview](preview.png) <!-- (Optional: Add screenshot/gif of gameplay) -->
+ <!-- (Optional: Add screenshot/gif of gameplay) -->
 
 ---
 
@@ -40,4 +40,7 @@ An **arcade-style space shooter game** built in **Python (Pygame)** featuring mu
 Install dependencies:
 ```bash
 pip install pygame numpy
-
+```
+# Play Without Setup Python
+- Download the Space_Shoter.exe 
+- Double click on it,and start playing instantly! 🎉 
